@@ -1,0 +1,16 @@
+.test {
+    background-color: rgb(236, 193, 200);
+    font-family: Verdana, sans-serif;
+}
+.extra {
+    font-size: 24px;
+}
+#hello {
+    color: blue;
+    font-size: 36px;
+}
+#world {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
