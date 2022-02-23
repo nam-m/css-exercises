@@ -19,6 +19,7 @@ body {
   padding: 8px;
 }
 
+/* Added */
 .left-end, .right-end {
   display: flex;
   align-items: center;
