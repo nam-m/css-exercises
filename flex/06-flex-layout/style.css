@@ -30,6 +30,7 @@ input {
 body {
   display: flex;
   flex-direction: column;
+  overflow: auto;
 }
 
 .header {
@@ -42,7 +43,6 @@ body {
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
-  overflow: scroll;
 }
 
 .footer {
@@ -78,4 +78,5 @@ a {
 
 button {
   padding: 8px;
+  margin-bottom: 16px;
 }
