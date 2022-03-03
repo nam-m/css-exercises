@@ -49,7 +49,7 @@ body {
   display: flex;
   justify-content: space-between;
   background-color: #eeeeee;
-  /* position: fixed; */
+  position: fixed;
   bottom: 0;
   right: 0;
   left: 0;
